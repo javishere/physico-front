@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/physico-front/static/css/main.3ffd6df8.chunk.css",
-    "main.js": "/physico-front/static/js/main.746f700c.chunk.js",
-    "main.js.map": "/physico-front/static/js/main.746f700c.chunk.js.map",
+    "main.js": "/physico-front/static/js/main.a303aa3e.chunk.js",
+    "main.js.map": "/physico-front/static/js/main.a303aa3e.chunk.js.map",
     "runtime-main.js": "/physico-front/static/js/runtime-main.309e70d7.js",
     "runtime-main.js.map": "/physico-front/static/js/runtime-main.309e70d7.js.map",
     "static/js/2.66ad6f1e.chunk.js": "/physico-front/static/js/2.66ad6f1e.chunk.js",
     "static/js/2.66ad6f1e.chunk.js.map": "/physico-front/static/js/2.66ad6f1e.chunk.js.map",
     "index.html": "/physico-front/index.html",
-    "precache-manifest.eac23d2fb56f6d46db2392ed8b0e864b.js": "/physico-front/precache-manifest.eac23d2fb56f6d46db2392ed8b0e864b.js",
+    "precache-manifest.9bb464402c75a914aae82ff070339945.js": "/physico-front/precache-manifest.9bb464402c75a914aae82ff070339945.js",
     "service-worker.js": "/physico-front/service-worker.js",
     "static/css/main.3ffd6df8.chunk.css.map": "/physico-front/static/css/main.3ffd6df8.chunk.css.map",
     "static/js/2.66ad6f1e.chunk.js.LICENSE.txt": "/physico-front/static/js/2.66ad6f1e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.309e70d7.js",
     "static/js/2.66ad6f1e.chunk.js",
     "static/css/main.3ffd6df8.chunk.css",
-    "static/js/main.746f700c.chunk.js"
+    "static/js/main.a303aa3e.chunk.js"
   ]
 }
