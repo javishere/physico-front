@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/physico-front/precache-manifest.f886188fe8a9abad71efaa8d8c4e0d91.js"
+  "/physico-front/precache-manifest.a848513ccd15d331fa42a9341901a8ec.js"
 );
 
 self.addEventListener('message', (event) => {
