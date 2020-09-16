@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "754d4775bb97b40c1c481170509754bb",
+    "revision": "e958168a35f7b87242f41601498c1031",
     "url": "/physico-front/index.html"
   },
   {
-    "revision": "5ee0524eeada39557efb",
+    "revision": "ba8ad5cdb778e9913d20",
     "url": "/physico-front/static/css/main.3ffd6df8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/physico-front/static/js/2.66ad6f1e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ee0524eeada39557efb",
-    "url": "/physico-front/static/js/main.c971ee1c.chunk.js"
+    "revision": "ba8ad5cdb778e9913d20",
+    "url": "/physico-front/static/js/main.c65ac21c.chunk.js"
   },
   {
     "revision": "ec3b327cd670abd3dec2",
