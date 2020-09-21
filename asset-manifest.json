@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/physico-front/static/css/main.5970ce16.chunk.css",
-    "main.js": "/physico-front/static/js/main.7fe48d15.chunk.js",
-    "main.js.map": "/physico-front/static/js/main.7fe48d15.chunk.js.map",
+    "main.css": "/physico-front/static/css/main.8af792fa.chunk.css",
+    "main.js": "/physico-front/static/js/main.ceab0625.chunk.js",
+    "main.js.map": "/physico-front/static/js/main.ceab0625.chunk.js.map",
     "runtime-main.js": "/physico-front/static/js/runtime-main.309e70d7.js",
     "runtime-main.js.map": "/physico-front/static/js/runtime-main.309e70d7.js.map",
-    "static/js/2.dcbc2a2d.chunk.js": "/physico-front/static/js/2.dcbc2a2d.chunk.js",
-    "static/js/2.dcbc2a2d.chunk.js.map": "/physico-front/static/js/2.dcbc2a2d.chunk.js.map",
+    "static/js/2.90b6f4da.chunk.js": "/physico-front/static/js/2.90b6f4da.chunk.js",
+    "static/js/2.90b6f4da.chunk.js.map": "/physico-front/static/js/2.90b6f4da.chunk.js.map",
     "index.html": "/physico-front/index.html",
-    "precache-manifest.63cc1ba2cae73907ff52d08f9775faca.js": "/physico-front/precache-manifest.63cc1ba2cae73907ff52d08f9775faca.js",
+    "precache-manifest.0d21172d4a093c998fdf11ace0533887.js": "/physico-front/precache-manifest.0d21172d4a093c998fdf11ace0533887.js",
     "service-worker.js": "/physico-front/service-worker.js",
-    "static/css/main.5970ce16.chunk.css.map": "/physico-front/static/css/main.5970ce16.chunk.css.map",
-    "static/js/2.dcbc2a2d.chunk.js.LICENSE.txt": "/physico-front/static/js/2.dcbc2a2d.chunk.js.LICENSE.txt"
+    "static/css/main.8af792fa.chunk.css.map": "/physico-front/static/css/main.8af792fa.chunk.css.map",
+    "static/js/2.90b6f4da.chunk.js.LICENSE.txt": "/physico-front/static/js/2.90b6f4da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.309e70d7.js",
-    "static/js/2.dcbc2a2d.chunk.js",
-    "static/css/main.5970ce16.chunk.css",
-    "static/js/main.7fe48d15.chunk.js"
+    "static/js/2.90b6f4da.chunk.js",
+    "static/css/main.8af792fa.chunk.css",
+    "static/js/main.ceab0625.chunk.js"
   ]
 }
