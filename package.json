@@ -1,12 +1,12 @@
 {
+  "homepage": "https://javishere.github.io/physico-front",
   "name": "physiolivia-app",
   "description": "",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "aws-amplify": "^3.2.0",
+    "aws-amplify": "^3.3.1",
     "bootstrap": "^4.5.2",
-    "express": "^4.17.1",
     "isomorphic-fetch": "^2.2.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.3.0",
@@ -19,19 +19,19 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "babel-loader": "^8.1.0",
+    "gh-pages": "^3.1.0",
     "jest": "^24.7.1",
     "nodemon": "^2.0.4",
     "react-scripts": "^3.4.3"
   },
   "scripts": {
     "test": "jest",
-    "build-client": "node_modules/.bin/webpack",
+    "build-client": "react-scripts build",
     "build-server": "babel src --out-dir dist",
     "start-cli": "react-scripts start",
     "start-server": "nodemon --exec babel-node src/server/index.js",
-    "predeploy": "npm ls",
-    "deploy": "npm ls",
-    "postdeploy": "npm ls"
+    "predeploy": "npm run build-client",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [

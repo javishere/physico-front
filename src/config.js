@@ -1,16 +1,18 @@
 export default {
     s3: {
-      REGION: "YOUR_S3_UPLOADS_BUCKET_REGION",
-      BUCKET: "YOUR_S3_UPLOADS_BUCKET_NAME"
+      REGION: "eu-west-1",
+      BUCKET: "physico"
     },
     apiGateway: {
-      REGION: "YOUR_API_GATEWAY_REGION",
-      URL: "YOUR_API_GATEWAY_URL"
+      REGION: "eu-west-1",
+      URL: " https://c9p5u8gzw7.execute-api.eu-west-1.amazonaws.com/Stage"
     },
     cognito: {
-      REGION: "YOUR_COGNITO_REGION",
-      USER_POOL_ID: "YOUR_COGNITO_USER_POOL_ID",
-      APP_CLIENT_ID: "YOUR_COGNITO_APP_CLIENT_ID",
-      IDENTITY_POOL_ID: "YOUR_IDENTITY_POOL_ID"
+      REGION: "eu-west-1",
+      USER_POOL_ID: "eu-west-1_8FIYqRDvq",
+      APP_CLIENT_ID: "22bekhru649s03rhqpa7viui70",
+      IDENTITY_POOL_ID: "eu-west-1:916f14a0-e460-4cef-9a48-2874df73bb9e"
     }
   };
+
+  
