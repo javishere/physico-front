@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/physico-front/static/css/main.34e70f7e.chunk.css",
-    "main.js": "/physico-front/static/js/main.c580f780.chunk.js",
-    "main.js.map": "/physico-front/static/js/main.c580f780.chunk.js.map",
+    "main.css": "/physico-front/static/css/main.83363556.chunk.css",
+    "main.js": "/physico-front/static/js/main.3c8615a7.chunk.js",
+    "main.js.map": "/physico-front/static/js/main.3c8615a7.chunk.js.map",
     "runtime-main.js": "/physico-front/static/js/runtime-main.309e70d7.js",
     "runtime-main.js.map": "/physico-front/static/js/runtime-main.309e70d7.js.map",
-    "static/js/2.4f3b8257.chunk.js": "/physico-front/static/js/2.4f3b8257.chunk.js",
-    "static/js/2.4f3b8257.chunk.js.map": "/physico-front/static/js/2.4f3b8257.chunk.js.map",
+    "static/js/2.ac59d1f2.chunk.js": "/physico-front/static/js/2.ac59d1f2.chunk.js",
+    "static/js/2.ac59d1f2.chunk.js.map": "/physico-front/static/js/2.ac59d1f2.chunk.js.map",
     "index.html": "/physico-front/index.html",
-    "precache-manifest.db619290bf8662168121be9bb9382c30.js": "/physico-front/precache-manifest.db619290bf8662168121be9bb9382c30.js",
+    "precache-manifest.fb63b3812af1fa3354fd3a7a5604d894.js": "/physico-front/precache-manifest.fb63b3812af1fa3354fd3a7a5604d894.js",
     "service-worker.js": "/physico-front/service-worker.js",
-    "static/css/main.34e70f7e.chunk.css.map": "/physico-front/static/css/main.34e70f7e.chunk.css.map",
-    "static/js/2.4f3b8257.chunk.js.LICENSE.txt": "/physico-front/static/js/2.4f3b8257.chunk.js.LICENSE.txt"
+    "static/css/main.83363556.chunk.css.map": "/physico-front/static/css/main.83363556.chunk.css.map",
+    "static/js/2.ac59d1f2.chunk.js.LICENSE.txt": "/physico-front/static/js/2.ac59d1f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.309e70d7.js",
-    "static/js/2.4f3b8257.chunk.js",
-    "static/css/main.34e70f7e.chunk.css",
-    "static/js/main.c580f780.chunk.js"
+    "static/js/2.ac59d1f2.chunk.js",
+    "static/css/main.83363556.chunk.css",
+    "static/js/main.3c8615a7.chunk.js"
   ]
 }
